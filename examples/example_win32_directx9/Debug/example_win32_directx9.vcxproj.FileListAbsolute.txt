@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\catrine\examples\example_win32_directx9\Debug\example_win32_directx9.exe
+C:\Users\spenc\OneDrive\Рабочий стол\ImGui Menus\catrine\examples\example_win32_directx9\Debug\example_win32_directx9.exe
